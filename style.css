@@ -1,0 +1,118 @@
+body {
+    margin: 0px;
+}
+main {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+h1{
+    color: red;
+    text-align: center ;
+}
+.navbar ul{
+   list-style-type: none;
+   background-color: grey; 
+   padding: 0px;
+   margin: 0px;
+   overflow: hidden;
+}
+.navbar a{
+    color: orange;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: grey;
+}
+.navbar li{
+    float:none;
+}
+body{
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 0px ;
+    padding: 0px;
+    background-color: black;
+}
+h1 {
+    color:red ;
+    background-color: black;
+    padding: 10px ;
+    margin-right: 500px;
+}
+h3{
+    color: white;
+    text-align: left;
+    background-color: black;
+    padding: 10px ;
+}
+.navbar{
+    background-color: grey;
+    overflow: hidden ;
+}
+.navbar ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li a {
+    display: border;
+    border: orange;
+    color: orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+main{
+    padding: 20px ;
+}
+.Headerpic{
+   display: block;
+   background-color: black;
+   padding: 20px;
+   text-align: left;
+}
+.ChockFountain{
+    display: block;
+    background-color: black;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cake{
+    display: block;
+    background-color: black;
+    padding: 20px;
+    text-align: left;
+}
+h2{
+    text-align: justify;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: small;
+}
+.navbar ul a{
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid white;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid white;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    padding: 10px;
+}
+
+    
